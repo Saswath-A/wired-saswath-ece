@@ -147,6 +147,10 @@ Level 23:
 
     PASSWORD : gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
 
+Level 24:
+
+    PASSWORD : iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
+
 
  
  
