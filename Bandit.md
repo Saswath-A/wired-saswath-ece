@@ -138,7 +138,9 @@ Level 21:
     As per the webisite of bandit, they have mentioned that cron is program running automatically at regular interval. So when i cd to /etc/cron.d/ , I found out multiple file but i choose "cronjob_bandit22" because i was searchign for the password of level 22. Thus after viewing that using cat command, it executes bash script every min of every hour. After that I used cat again to view the cron syntax  and it started to assign the password into a file in tmp. Then I used cat to view the password
 
     Password:tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
-
+    
+Level 22:
+    PASSWORD : 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
 
 
  
