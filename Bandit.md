@@ -143,6 +143,10 @@ Level 22:
 
     PASSWORD : 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
 
+Level 23:
+
+    PASSWORD : gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
+
 
  
  
