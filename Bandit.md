@@ -151,6 +151,10 @@ Level 24:
 
     PASSWORD : iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 
+Level 26:
+
+    PASSWORD : s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
+
 
  
  
